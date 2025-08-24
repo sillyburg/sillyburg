@@ -1,10 +1,19 @@
-## oh, hey there!
+# oh, hey there!
 thank you for checking out my profile! i'm a FNF soft coder that works both on LUA and HSCRIPT (both V-Slice and Codename Engine) and a bit of source code
 
 you can contact me through my Discord, which is "sillyborja".
 
-# mods i work on:
+### mods i work on:
+- No Time For Funkin
+- Pibby: Cataclysm Fragment
+- Pibby: Empty Feelings
+- Pibby: Heartless Parasites
+- FNF: The Fallen Broadcasts
+- CN: Fragmented Anomalies
 
+### mods i used to work on:
+- Funkin With Pibby
+- Encrypted Catalyst
 
 <!--
 **sillyburg/sillyburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
