@@ -3,6 +3,8 @@ thank you for checking out my profile! i'm a FNF soft coder that works both on L
 
 you can contact me through my Discord, which is "sillyborja".
 
+if you wanna join my Discord server, [click here](https://discord.gg/5DdTqsv63A), or paste the following link in your browser: https://discord.gg/5DdTqsv63A
+
 ### mods i work on:
 - No Time For Funkin
 - Pibby: Cataclysm Fragment
