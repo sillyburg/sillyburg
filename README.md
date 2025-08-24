@@ -1,4 +1,10 @@
-## Hi there 👋
+## oh, hey there!
+thank you for checking out my profile! i'm a FNF soft coder that works both on LUA and HSCRIPT (both V-Slice and Codename Engine) and a bit of source code
+
+you can contact me through my Discord, which is "sillyborja".
+
+# mods i work on:
+
 
 <!--
 **sillyburg/sillyburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
