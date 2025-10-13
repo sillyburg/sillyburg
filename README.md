@@ -6,10 +6,10 @@ you can contact me through my Discord, which is "sillyborja".
 if you wanna join my Discord server, [click here](https://discord.gg/5DdTqsv63A), or paste the following link in your browser: https://discord.gg/5DdTqsv63A
 
 ### mods i work on:
-- No Time For Funkin
+- No Time For Funkin'
+- Soulless Memories
 - Pibby: Cataclysm Fragment
 - Pibby: Empty Feelings
-- Pibby: Heartless Parasites
 - FNF: The Fallen Broadcasts
 - CN: Fragmented Anomalies
 
