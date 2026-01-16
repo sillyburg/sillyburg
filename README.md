@@ -7,15 +7,21 @@ if you wanna join my Discord server, [click here](https://discord.gg/5DdTqsv63A)
 
 ### mods i work on:
 - No Time For Funkin'
-- Soulless Memories
 - Pibby: Cataclysm Fragment
 - Pibby: Empty Feelings
-- FNF: The Fallen Broadcasts
-- CN: Fragmented Anomalies
+- [UNNAMED SPRUNKI MOD]
+- Drowning In Darkness
+- Vs Herobrine: Blocky Myths (mostly spectate but i did some stuff for it)
+- Encrypted Catalyst (ONESHOT)
+- [UNNAMED W.I MOD]
 
 ### mods i used to work on:
 - Funkin With Pibby
 - Encrypted Catalyst
+- FNF: The Fallen Broadcasts
+- CN: Fragmented Anomalies
+- Soulless Memories
+- Wednesday Infidelity: Downward Reliance
 
 <!--
 **sillyburg/sillyburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
