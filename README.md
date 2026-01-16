@@ -1,5 +1,5 @@
-# oh, hey there!
-thank you for checking out my profile! i'm a FNF soft coder that works both on LUA and HSCRIPT (both V-Slice and Codename Engine) and a bit of source code
+# Hey there!
+thank you for checking out my profile! i'm a FNF SOFT-CODER (no source) that works both on LUA and HSCRIPT (V-Slice, Psych Engine and Codename Engine)
 
 you can contact me through my Discord, which is "sillyborja".
 
