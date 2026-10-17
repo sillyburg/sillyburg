@@ -1,21 +1,25 @@
 # Hey there!
-thank you for checking out my profile! i'm a FNF SOFT-CODER (no source) that works both on LUA and HSCRIPT (V-Slice, Psych Engine and Codename Engine)
+i'm sillyborja, a FNF coder who wants to get into gamedev eventually and also into websites :)
 
-you can contact me through my Discord, which is "sillyborja".
-
-if you wanna join my Discord server, [click here](https://discord.gg/5DdTqsv63A), or paste the following link in your browser: https://discord.gg/5DdTqsv63A
+i usually soft-code, but i can work with source although prefer not to.
 
 ### mods i work on:
 - No Time For Funkin'
-- Pibby: Cataclysm Fragment
-- Pibby: Empty Feelings
-- [UNNAMED SPRUNKI MOD]
 - Drowning In Darkness
+- Pibby: Apocalypse
+- V.S. Mouse Legacy
+- MINDFUCK
+- Pibby Corrupted
+- /SEG_FAULT
+- Melodies of Aftergrowth
+
+### mods i used to work on:
 - Vs Herobrine: Blocky Myths (mostly spectate but i did some stuff for it)
 - Encrypted Catalyst (ONESHOT)
 - [UNNAMED W.I MOD]
-
-### mods i used to work on:
+- Pibby: Cataclysm Fragment
+- Pibby: Empty Feelings
+- [UNNAMED SPRUNKI MOD]
 - Funkin With Pibby
 - Encrypted Catalyst
 - FNF: The Fallen Broadcasts
