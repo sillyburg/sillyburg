@@ -1,3 +1,5 @@
+// this was from like 2025 this isn't how i code now
+
 import StringTools;
 import funkin.savedata.FunkinSave;
 import funkin.backend.chart.Chart;
